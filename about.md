@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is __Kaylee Frazier__! I am a graduate student at __NC State University__. 
+My name is __Kaylee Frazier__!  
+
 ![Profile](images/profile.jpg)
+
+I am a graduate student at __NC State University__.
 
 ### More Information
 I am on the NC State varsity volleyball team. 
