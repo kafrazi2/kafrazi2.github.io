@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is __Kaylee Frazier__! I am a graduate student at __NC State University__. 
 ```{r profile, out.width= "70px", fig.align="center", echo= FALSE}
-knitr::include_graphics("download.jpg")  
+knitr::include_graphics("https://github.com/kafrazi2/kafrazi2.github.io/blob/master/images/download.jpg")  
 ```
 ### More Information
 I am on the NC State varsity volleyball team. 
