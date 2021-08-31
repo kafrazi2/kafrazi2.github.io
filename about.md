@@ -11,7 +11,7 @@ My name is __Kaylee Frazier__!
 I am a graduate student at __NC State University__.
 
 ### More Information
-I am on the NC State varsity volleyball team. 
+I am on the [NC State varsity volleyball team](https://gopack.com/sports/womens-volleyball/roster). 
 
 My graduate program is [Applied Statistics and Data Management](https://online-distance.ncsu.edu/program/graduate-certificate-in-applied-statistics-and-data-management/).
 
