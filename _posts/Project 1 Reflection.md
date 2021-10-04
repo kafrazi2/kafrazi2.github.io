@@ -3,8 +3,9 @@ title: "Project 1 Reflection"
 layout: post
 ---
 
-#Links
+# Links
 [Repo Page](https://github.com/kafrazi2/kafrazi2.github.io)
+
 [Project 1 Repo](https://github.com/kafrazi2/Project1)
 
 # Reflection
