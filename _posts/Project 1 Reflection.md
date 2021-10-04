@@ -1,7 +1,6 @@
 ---
 title: "Project 1 Reflection"
-author: "Kaylee Frazier"
-date: "10/3/2021"
+layout: post
 ---
 
 #Links
