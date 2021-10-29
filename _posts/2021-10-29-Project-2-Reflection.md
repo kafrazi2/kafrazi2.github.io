@@ -4,7 +4,7 @@ layout: post
 ---
 
 # Links
-[Repo Site](https://kafrazi2.github.io/Project-2)
+[Project 2 Site](https://kafrazi2.github.io/Project-2)
 
 [Project 2 Repo](https://github.com/kafrazi2/Project-2)
 
